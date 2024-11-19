@@ -5,3 +5,4 @@ scipy
 folium
 streamlit_folium
 geopy
+scipy
